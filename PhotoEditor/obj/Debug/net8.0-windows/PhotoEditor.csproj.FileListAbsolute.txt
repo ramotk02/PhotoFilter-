@@ -18,3 +18,4 @@ C:\Users\bib\Desktop\BIB - Kopie\SOP\PhotoEditor\PhotoEditor\obj\Debug\net8.0-wi
 C:\Users\bib\Desktop\BIB - Kopie\SOP\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\PhotoEditor.pdb
 C:\Users\bib\Desktop\BIB - Kopie\SOP\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\PhotoEditor.genruntimeconfig.cache
 C:\Users\bib\Desktop\BIB - Kopie\SOP\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\ref\PhotoEditor.dll
+C:\Users\bib\Desktop\BIB - Kopie\SOP\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\PhotoEditor.sourcelink.json

@@ -37,8 +37,10 @@ namespace PhotoEditor
                 CurrentImage = new BitmapImage(new Uri(dlg.FileName));
                 DisplayedImage.Source = CurrentImage;
 
+                MessageBox.Show("Shön Bild ");
+
             }
         }
-
+      
     }
 }
